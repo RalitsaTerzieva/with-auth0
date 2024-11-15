@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# with-auth0 project
+
+This project is designed to help you learn how to implement authentication using Auth0 in a Next.js application. It follows the steps outlined in the book **Real World Next.js** by **Michele Riva**, which walks you through the process of integrating authentication in a Next.js application using Auth0.
+
+## 🚀 Features
+
+- **Auth0 Authentication**: Secure your application with Auth0 by handling user login and registration.
+- **Next.js**: Build a modern, fast, and SEO-friendly web application using Next.js.
+- **Real World Application**: Follow the guidance of the Real World Next.js book and learn how to implement authentication.
+- **Learn Auth0**: Understand how to integrate third-party authentication systems (like Auth0) into your app.
+
+## 🛠️ Technologies Used
+
+- **Next.js**: A React framework for building fast, static, and dynamic web applications.
+- **Auth0**: An authentication and authorization platform that helps you secure applications.
+- **React**: The JavaScript library for building user interfaces.
+- **JavaScript/Node.js**: Server-side code to handle authentication.
 
 ## Getting Started
 
